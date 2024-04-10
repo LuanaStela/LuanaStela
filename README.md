@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=a714c7&random=false&width=435&height=40&lines=Ol%C3%A1%2C+meu+nome+é+Luana+Stela!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align="left">No momento estou em transição de carreira para me tornar uma Desenvolvedora Front-End. Tenho me dedicado ao estudo e aprimoramento de habilidades em HTML5, CSS3, Java, JavaScript, React, Git e GitHub, e busco a cada dia me aprofundar mais em desenvolvimento web.
-Tenho grande interesse por front-end, e minhas principal linguagem é JavaScript. 
+<br>
+Tenho grande interesse por front-end, e minha principal linguagem é JavaScript. 
 Meu grande interesse por tecnologia e minha vontade de aprender me impulsionam a buscar oportunidades no mercado de desenvolvimento. Estou animada para contribuir com minha bagagem acadêmica e habilidades técnicas, enquanto continuo a melhorar meu conhecimento em programação. Estou aberta a novos desafios e ansiosa para fazer parte de projetos inovadores.
 <br></br>
 <img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202404/338224_EB72OElY.png"  />
