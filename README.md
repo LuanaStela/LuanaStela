@@ -6,7 +6,7 @@
 <br>
 Meu grande interesse por tecnologia e minha vontade de aprender me impulsionam a buscar oportunidades no mercado de desenvolvimento. Estou animada para contribuir com minha bagagem acadêmica e habilidades técnicas, enquanto continuo a melhorar meu conhecimento em programação. Estou aberta a novos desafios e ansiosa para fazer parte de projetos inovadores.
 <br></br>
-<img align="right" height="200" src="https://cdn.picrew.me/shareImg/org/202404/338224_EB72OElY.png"  />
+<img align="right" height="300" src="https://cdn.picrew.me/shareImg/org/202404/338224_EB72OElY.png"  />
 
 ###
 
