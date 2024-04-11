@@ -44,3 +44,10 @@ Meu grande interesse por tecnologia e minha vontade de aprender me impulsionam a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaStela&line_height=10&card_width=290&layout=compact&hide_title=false&show_icons=true&&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=a714c7&text_color=FFF&border_radius=3&border_color=a714c7&icon_color=a714c7&theme=midnight-purple)
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanaStela/LuanaStela/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanaStela/LuanaStela/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuanaStela/LuanaStela/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
