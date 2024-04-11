@@ -40,7 +40,7 @@ Meu grande interesse por tecnologia e minha vontade de aprender me impulsionam a
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaStela&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=a714c7&text_color=FFF&border_radius=3&border_color=a714c7&icon_color=a714c7&theme=jolly)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaStela&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=a714c7&text_color=FFF&border_radius=3&border_color=a714c7&icon_color=a714c7&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaStela&line_height=10&card_width=290&layout=compact&hide_title=false&show_icons=true&&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=a714c7&text_color=FFF&border_radius=3&border_color=a714c7&icon_color=a714c7&theme=midnight-purple)
 <br>
 
