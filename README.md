@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=a714c7&random=false&width=435&height=40&lines=Ol%C3%A1%2C+meu+nome+é+Luana+Stela!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left">No momento estou em transição de carreira para me tornar uma Desenvolvedora Front-End. Tenho me dedicado ao estudo e aprimoramento de habilidades em HTML5, CSS3, Java, JavaScript, React, Git e GitHub, e busco a cada dia me aprofundar mais em desenvolvimento web.
+<p align="left">Como desenvolvedora Front-End, tenho me empenhado no aperfeiçoamento de habilidades como HTML5, CSS3, Java, JavaScript, React, Angular, Git e GitHub, buscando constantemente aprofundar-me no universo do desenvolvimento web. 
 <br>
 Meu grande interesse por tecnologia e minha vontade de aprender me impulsionam a buscar oportunidades no mercado de desenvolvimento. Estou animada para contribuir com minha bagagem acadêmica e habilidades técnicas, enquanto continuo a melhorar meu conhecimento em programação. Estou aberta a novos desafios e ansiosa para fazer parte de projetos inovadores.
 <br></br>
